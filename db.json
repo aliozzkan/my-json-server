@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "persons": [
+    {
+      id: 1,
+      name: "Ali Özkan",
+      img: "https://avatars1.githubusercontent.com/u/34611025?s=460&v=4"
+    },
+    {
+      id: 2,
+      name: "Seçkin Pullu",
+      img: "https://avatars1.githubusercontent.com/u/36666536?s=460&v=4"
+    }
+  ]
 }
